@@ -12,7 +12,8 @@
   background-color: #00c7ce;
   height: 50vh;
   padding: 10px;
-  display: flex;}
+  display: flex;
+}
 
 .flex {
   background-color: #00c7ce;
@@ -20,10 +21,9 @@
   padding: 10px;
   display: flex;
   justify-content: center;
-  align-items: center;}
-
+  align-items: center;
+}
 .flex {
   display: flex;
   flex-direction: row;
-  }
-  
+}
